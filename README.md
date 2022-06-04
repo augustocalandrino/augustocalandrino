@@ -13,11 +13,11 @@
 
 ### Hey! Bem vindo ao meu Perfil no Github
 
-Meu nome é Augusto Calandrino, e sou Desenvolvedor Front-end e Analista de Dados.
+Meu nome é Augusto Calandrino, sou Analista de Dados e Dev Front-end.
 
-- :white_check_mark: Javascript / NodeJS / React / Power BI.
+- :white_check_mark: PBI / Javascript / NodeJS / React.
 - :white_check_mark: Atualmente usando o framework **NextJS** para frontend.
-- :green_book: Estudando Vue.js / Python / Tableau / Qlik Sense.
+- :green_book: Estudando SQL / Vue.js / Python / Tableau / Pentaho / Qlik Sense.
 
 👨 **Pai de 4G's**. <br/>
 🎓 **Bacharel** em **Sistemas de Informação** pela Estácio-FAP. <br/>
